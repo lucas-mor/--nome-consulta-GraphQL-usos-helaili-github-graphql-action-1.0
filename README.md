@@ -1,0 +1,1 @@
+# --nome-consulta-GraphQL-usos-helaili-github-graphql-action-1.0
